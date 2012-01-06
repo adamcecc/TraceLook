@@ -1,2 +1,9 @@
 
-<script>alert('document.cookie');</script> 
+TraceLook takes a python trace and creates a VI script to open each of the files on their corresponding line to view. 
+
+Future features: 
+ - Depth (how far in the trace to go back) 
+ - Ruby/Java/etc other languages 
+ - Other editors 
+
+
